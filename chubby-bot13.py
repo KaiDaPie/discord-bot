@@ -488,4 +488,4 @@ async def on_ready():
     print(f'Logged in as {bot.user.name}')
 
 # Run the bot with your token
-bot.run('MTE1Nzc1MTUxMTQzNTE5ODY4NQ.GEX36g.Af0PYMIQLYTrlsTn6Qsk_Kt2jh6NSE7ZMtJAJM')
+bot.run('fortnite')
